@@ -18,6 +18,7 @@ Gift ou Video:
 - Java Script
 - React. JS
 - Node. JS
+- Json
 - Banco de Dados - Moongodb
 - Visual Studio Code
 
