@@ -1,25 +1,26 @@
-<h1 align="center">Portal de Noticias</h1>
+<h1 align="center"> News Portal </h1>
 
-#### Pagina Inicial do Projeto: 
+### Project Home Page: 
 imagem
 
-### Link de acesso ao Projeto:
+### Project access link:
 
 <br></br>
 
-## Descrição do projeto:
+## Project Description:
 - Nesse Projeto foi desenvolvido uma pagina de Portal de Noticias, um Projeto Front-End , Back-End, e Banco de Dados, utlizando HTML, CSS, Java Script,
 React.js, Node.js, Json e o Banco de Dados MongoDB. Na pagina encontramos um design mais avançado, e muito funcional para o seu proposito. Um projeto muito realista
 onde puxa dinamicamente informações e noticias, apartir dos cadastros no banco de dados do MongoDB
 
-- A seguir temos um pequeno video instrucional, onde mostramos um exemplo de como funciona a pagina do Portal de Noticias Dinamico.
+- Next we have a small instructional video, where we show an example of how the Dynamic News Portal page works.
+
 <br></br>
 
 Video:
 
 <br></br>
 
-## Liguagens e ferramentas utilizadas:
+## Languages ​​and Tools used:
 - HTML
 - CSS
 - Java Script
@@ -31,5 +32,5 @@ Video:
 
 <br></br>
 
-#### Autor: 
+#### Author: 
 **Alexandre Souza**
